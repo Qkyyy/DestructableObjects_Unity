@@ -2,6 +2,11 @@
 
 Hey, I made a simple system which allows 3d objects to be 'destructable'. All you need is a original object
 and the destructed version (which consists of smaller objects).
+<b>The objects doesn't need to have a pre-programmed physics</b>, because the simple system simulates some physics force (which you can change in 'AddForceToClone' scripts)
+
+I'm looking forward to your responses - be sure to ask any questions or text me if you found any problems/bugs in it.
+
+Enjoy!
 
 ![](DestructableObjects_gif1.gif)
 
